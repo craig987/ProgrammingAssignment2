@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-## makeCacheMatrix sets up three functions that are later used by 
+## makeCacheMatrix sets up three functions that are later used by cacheSolve
 makeCacheMatrix <- function(x = matrix()) {
   
       # mcheck is the check that the Inverse has been calculated
